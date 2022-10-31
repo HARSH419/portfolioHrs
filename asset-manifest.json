@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/HARSH419/portfolio-react-main/static/css/main.43c86f1c.css",
+    "main.js": "/HARSH419/portfolio-react-main/static/js/main.ef848cc6.js",
+    "static/media/HarshCV.pdf": "/HARSH419/portfolio-react-main/static/media/HarshCV.4aa5258c289c71ce7207.pdf",
+    "static/media/IMG_20221031_202804.jpeg": "/HARSH419/portfolio-react-main/static/media/IMG_20221031_202804.e6cbb5d897cdf145fd54.jpeg",
+    "static/media/whatsapp.png": "/HARSH419/portfolio-react-main/static/media/whatsapp.97b90b6e3f8c70254204.png",
+    "static/media/github.png": "/HARSH419/portfolio-react-main/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/instagram.png": "/HARSH419/portfolio-react-main/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/linkedin.png": "/HARSH419/portfolio-react-main/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/illustration.svg": "/HARSH419/portfolio-react-main/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/HARSH419/portfolio-react-main/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/mysql-icon.svg": "/HARSH419/portfolio-react-main/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/node-icon.svg": "/HARSH419/portfolio-react-main/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/HARSH419/portfolio-react-main/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/bootstrap-icon.svg": "/HARSH419/portfolio-react-main/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/HARSH419/portfolio-react-main/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/gradle-icon.svg": "/HARSH419/portfolio-react-main/static/media/gradle-icon.7e7e4e2b9f8c4abe467373e931db885c.svg",
+    "index.html": "/HARSH419/portfolio-react-main/index.html",
+    "static/media/phone-icon.svg": "/HARSH419/portfolio-react-main/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/HARSH419/portfolio-react-main/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/mongodb-icon.svg": "/HARSH419/portfolio-react-main/static/media/mongodb-icon.0781b723446e1f8a1734f7831a9c3313.svg",
+    "static/media/html-icon.svg": "/HARSH419/portfolio-react-main/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/HARSH419/portfolio-react-main/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/vscode-icon.svg": "/HARSH419/portfolio-react-main/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
+    "static/media/js-icon.svg": "/HARSH419/portfolio-react-main/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/HARSH419/portfolio-react-main/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "static/media/github-icon.svg": "/HARSH419/portfolio-react-main/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
+    "static/media/external-link-icon.svg": "/HARSH419/portfolio-react-main/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
+    "main.43c86f1c.css.map": "/HARSH419/portfolio-react-main/static/css/main.43c86f1c.css.map",
+    "main.ef848cc6.js.map": "/HARSH419/portfolio-react-main/static/js/main.ef848cc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c86f1c.css",
+    "static/js/main.ef848cc6.js"
+  ]
+}
