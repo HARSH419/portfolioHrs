@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react'
 import validator from 'validator'
 
 export function Form() {
-  const [state, handleSubmit] = useForm('myyozglw')
+  const [state, handleSubmit] = useForm('xqkokgrr')
 
   const [validEmail, setValidEmail] = useState(false)
   const [isHuman, setIsHuman] = useState(false)
@@ -34,13 +34,13 @@ export function Form() {
   if (state.succeeded) {
     return (
       <ContainerSucces>
-        <h3>Obrigado por entrar em contact!</h3>
+        <h3>Thanks for getting in touch!</h3>
         <button
           onClick={() => {
             window.scrollTo({ top: 0, behavior: 'smooth' })
           }}
         >
-          Voltar ao topo
+          Back to the top
         </button>
         <ToastContainer />
       </ContainerSucces>
@@ -77,7 +77,7 @@ export function Form() {
           errors={state.errors}
         />
         <ReCAPTCHA
-          sitekey="6LcAu-IdAAAAAJOTI5E_eRltZNQCvukIl2-f1glQ"
+          sitekey="6Lea5s0iAAAAAI4dnOUZocGqWWUmzwz8ytT7OsHB"
           onChange={(e) => {
             setIsHuman(true)
           }}

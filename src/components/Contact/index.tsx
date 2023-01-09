@@ -21,8 +21,8 @@ const Contact = () => {
           </a>
         </div>
         <div>
-          <img src={phoneIcon} alt="Email" />
-          <a href="tel:+5531981213843">(+91) 8700326959</a>
+          <img src={phoneIcon} alt="Phone" />
+          <a href="tel:+918700326959">(+91) 8700326959</a>
         </div>
       </div>
       <Form></Form>
