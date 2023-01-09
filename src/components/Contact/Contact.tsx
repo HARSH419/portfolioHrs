@@ -3,7 +3,7 @@ import emailIcon from "../../assets/email-icon.svg";
 import phoneIcon from "../../assets/phone-icon.svg";
 import { Form } from "../Form/Form";
 
-export function Contact() {
+const Contact = () => {
   return (
     <Container id="contact">
       <header>
@@ -28,5 +28,6 @@ export function Contact() {
       <Form></Form>
     </Container>
   );
-}
+};
 
+export default Contact;
