@@ -17,7 +17,7 @@ import ProfileIcon from "../../assets/IMG_20221031_202804.jpeg"
 
 export function About(){
   return(
-    <Container id="sobre">
+    <Container id="aboutMe">
       <div className="">
         <ScrollAnimation animateIn="fadeInLeft">
           <h2>About me</h2>
