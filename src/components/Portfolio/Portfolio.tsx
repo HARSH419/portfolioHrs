@@ -101,24 +101,12 @@ export function Portfolio() {
                 <title>Folder</title>
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
-              <div className="project-links">
-                <a
-                  href="https://play.google.com/store/apps/details?id=com.whizzkart.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src={externalLinkIcon} alt="Visit site" />
-                </a>
-              </div>
             </header>
             <div className="body">
               <h3>Restaurant App</h3>
               <p>
                 An interface to order food directly from Restaurants similar to
-                zomato & swiggy{" "}
-                <a href="https://play.google.com/store/apps/details?id=com.whizzkart.app/">
-                  Whizzkart User App.
-                </a>
+                zomato & swiggy Whizzkart User App.
               </p>
             </div>
             <footer>
